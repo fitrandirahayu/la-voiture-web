@@ -267,13 +267,6 @@ a:focus, a:hover {
   border-color: none
   border:none;
 }
-
-.fixed-bottom, .fixed-top {
-    position: absolute;
-    right: 0;
-    left: 0;
-    z-index: 1030;
-}
 .fixed-top {
-    top: 0;
+    position:absolute;
 }

@@ -1,1 +1,1 @@
-{"short_name":"La Voiture","name":"La Voiture","icons":[{"id":"512x512","src":"assets/img/la-voiture.svg","type":"image/svg+xml","dimensions":{"width":484,"height":484}}],"start_url":"/index.html","display":"fullscreen","orientation":"portrait"}
+{"short_name":"La Voiture","name":"La Voiture","icons":[{"id":"512x512","src":"assets/img/la-voiture.svg","type":"image/svg+xml","dimensions":{"width":484,"height":484}}],"start_url":"fitrandirahayu.github.io/la-voiture-web/index.html","display":"fullscreen","orientation":"portrait"}
